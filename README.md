@@ -4,16 +4,12 @@ This is project realted to analysing growth of Telangana state among various sec
 Tke OBjective of this project was to analyse Telangana’s growth among different sectors quantitatively and provide useful Insights to the Telangana government that would help them to make data-informed decisions that would further support the growth of the state.
 
 Task:
-Use any tool of your choice (Python, SQL, PowerBI, Excel, PowerPoint) to analyze and answer these questions given and provide insights/recemmendations.
-To ensure that all the insights are appropriately visualized and mapped on the Telangana district map.
-Since, the target audience is top-level management - participents need to create a convincing presentation to provide insights/recommendations. Additional data based on your own research can be used to support recommendations.
-Make a convincing LinkedIn post, presenting insights and notifying to stakeholders.
-Data:
+Use any tool of your choice (Python, SQL, PowerBI, Excel, PowerPoint) to analyze the provided questions and provide insights and recommendations. Ensure all insights are appropriately visualized and mapped on the Telangana district map. As the target audience is top-level management, participants need to create a convincing presentation to deliver insights and recommendations. Additional data, based on your own research, can be used to support these recommendations. Finally, prepare a presentation to share these insights with stakeholders.
 
 Dataset consists of 2 dimension tables and 3 fact tables.
 
-dim_districts
-dim_date
-fact_stamps : The table provides data on the revenue generated from document registrations and estamp challan payments aggregated at the district and monthly level.
-fact_transport : The table provides information about the individual vehicle sales data from the RTA(Regional Transport Authority) of the state of Telangana categorized by fuel type, vehicle class, seating capacity, and other general categories aggregated at the district and monthly level.
-fact_TS_iPASS : The TS-iPASS dataset in Telangana comprises data concerning units or businesses established within the state under the "Industrial Project Approval and Self-Certification System" (iPASS).
+*   dim\_districts
+*   dim\_date
+*   fact\_stamps: This table provides data on the revenue generated from document registrations and estamp challan payments, aggregated at the district and monthly level.
+*   fact\_transport: This table provides information about individual vehicle sales data from the RTA (Regional Transport Authority) of Telangana, categorized by fuel type, vehicle class, seating capacity, and other general categories, aggregated at the district and monthly level.
+*   fact\_TS\_iPASS: The TS-iPASS dataset in Telangana comprises data concerning units or businesses established within the state under the "Industrial Project Approval and Self-Certification System" (iPASS).
