@@ -13,3 +13,11 @@ Dataset consists of 2 dimension tables and 3 fact tables.
 *   fact\_stamps: This table provides data on the revenue generated from document registrations and estamp challan payments, aggregated at the district and monthly level.
 *   fact\_transport: This table provides information about individual vehicle sales data from the RTA (Regional Transport Authority) of Telangana, categorized by fuel type, vehicle class, seating capacity, and other general categories, aggregated at the district and monthly level.
 *   fact\_TS\_iPASS: The TS-iPASS dataset in Telangana comprises data concerning units or businesses established within the state under the "Industrial Project Approval and Self-Certification System" (iPASS).
+
+
+Poerbi Analysis Screenshots
+<img width="1982" height="1116" alt="image" src="https://github.com/user-attachments/assets/bea47fa5-cf07-4292-a46a-2ab2ea94f783" />
+<img width="1997" height="1124" alt="image" src="https://github.com/user-attachments/assets/6e76a639-6be0-4153-a73f-251ba419e77d" />
+<img width="1975" height="1093" alt="image" src="https://github.com/user-attachments/assets/4bc58079-7ab4-4189-84ac-215d0efea2a9" />
+
+
